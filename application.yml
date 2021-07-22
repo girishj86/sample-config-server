@@ -8,4 +8,4 @@ eureka:
         hostname: localhost
         prefer-ip-address: true
 test:
-    parameter: testgit6
+    parameter: testgit1
